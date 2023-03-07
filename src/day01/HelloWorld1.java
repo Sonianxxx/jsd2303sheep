@@ -21,7 +21,7 @@ package day01;
  *
  * 步骤:1
  * 1.在day01鼠标右键,新建一个java class
- *   取名HeloWorld2
+ *   取名HelloWorld2
  */
 public class HelloWorld1 {
     public static void main(String[] args) {
